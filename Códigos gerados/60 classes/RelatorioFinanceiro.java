@@ -1,8 +1,10 @@
 public class RelatorioFinanceiro {
 
-	private TransacaoFinanceira attribute90;
+	private int attribute72;
 
-	public void operation72() {
+	private Deposito deposito;
+
+	public void operation37() {
 
 	}
 
