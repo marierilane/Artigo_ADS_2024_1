@@ -1,0 +1,88 @@
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\20_classes\Administrador.java
+Total de linhas: 31
+Linhas de código: 17
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\20_classes\Amenidades.java
+Total de linhas: 21
+Linhas de código: 11
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\20_classes\Bibliografia.java
+Total de linhas: 19
+Linhas de código: 10
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\20_classes\Competência.java
+Total de linhas: 13
+Linhas de código: 7
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\20_classes\Coordernador.java
+Total de linhas: 17
+Linhas de código: 9
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\20_classes\Curso.java
+Total de linhas: 41
+Linhas de código: 21
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\20_classes\Disciplina.java
+Total de linhas: 31
+Linhas de código: 16
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\20_classes\Ementa.java
+Total de linhas: 13
+Linhas de código: 7
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\20_classes\Faq.java
+Total de linhas: 11
+Linhas de código: 6
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\20_classes\Frequencia.java
+Total de linhas: 11
+Linhas de código: 6
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\20_classes\Interface0.java
+Total de linhas: 3
+Linhas de código: 2
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\20_classes\Interface1.java
+Total de linhas: 3
+Linhas de código: 2
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\20_classes\Login.java
+Total de linhas: 11
+Linhas de código: 6
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\20_classes\Modulo.java
+Total de linhas: 15
+Linhas de código: 8
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\20_classes\Nota.java
+Total de linhas: 11
+Linhas de código: 6
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\20_classes\Pessoa.java
+Total de linhas: 33
+Linhas de código: 17
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\20_classes\Professor.java
+Total de linhas: 23
+Linhas de código: 12
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\20_classes\Secretario.java
+Total de linhas: 15
+Linhas de código: 8
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\20_classes\String.java
+Total de linhas: 3
+Linhas de código: 2
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\20_classes\Tarefa.java
+Total de linhas: 11
+Linhas de código: 6
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\20_classes\Turma.java
+Total de linhas: 27
+Linhas de código: 15
+
+Total de arquivos: 21
+Total de linhas: 363
+Total de linhas de código: 194
+Soma de todas as linhas de código: 194

@@ -1,0 +1,17 @@
+Métricas antes de gerar o código:
+cpu: 0.2
+memory: 64.5
+disk: 94.2
+interrupt: 307205989
+network: 6312352162
+swap: 0.8
+process_count: 290
+
+Métricas após gerar o código:
+cpu: 1.0
+memory: 64.5
+disk: 94.2
+interrupt: 307228855
+network: 6312357380
+swap: 0.8
+process_count: 290

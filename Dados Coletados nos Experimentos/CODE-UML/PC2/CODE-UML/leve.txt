@@ -1,0 +1,47 @@
+Timestamp: 2024-07-14 20:44:37
+CPU usage: 20.0%
+Memory usage: 60.2%
+Disk usage: 70.1%
+Interrupt count: 3000000000
+Network usage: 3000000000 bytes
+Swap usage: 5.0%
+CPU temperature: N/A
+Process count: 250
+
+Timestamp: 2024-07-14 20:44:42
+CPU usage: 21.5%
+Memory usage: 60.1%
+Disk usage: 70.0%
+Interrupt count: 3000005000
+Network usage: 3000005000 bytes
+Swap usage: 5.1%
+CPU temperature: N/A
+Process count: 250
+
+Timestamp: 2024-07-14 20:44:47
+CPU usage: 19.8%
+Memory usage: 60.0%
+Disk usage: 70.2%
+Interrupt count: 3000010000
+Network usage: 3000010000 bytes
+Swap usage: 5.2%
+CPU temperature: N/A
+Process count: 251
+
+Timestamp: 2024-07-14 20:44:52
+CPU usage: 22.0%
+Memory usage: 60.3%
+Disk usage: 70.1%
+Interrupt count: 3000015000
+Network usage: 3000015000 bytes
+Swap usage: 5.0%
+CPU temperature: N/A
+Process count: 251
+
+Cpu statistics: {'min': 19.8, 'max': 22.0, 'mean': 20.825, 'stdev': 1.0904891868637057, 'variance': 1.1891666666666663, 'mode': 20.0}
+Memory statistics: {'min': 60.0, 'max': 60.3, 'mean': 60.15, 'stdev': 0.12909944487357963, 'variance': 0.01666666666666643, 'mode': 60.2}
+Disk statistics: {'min': 70.0, 'max': 70.2, 'mean': 70.1, 'stdev': 0.08164965809277376, 'variance': 0.006666666666666856, 'mode': 70.1}
+Interrupt statistics: {'min': 3000000000, 'max': 3000015000, 'mean': 3000007500, 'stdev': 6454.972243679028, 'variance': 41666666.666666664, 'mode': 3000000000}
+Network statistics: {'min': 3000000000, 'max': 3000015000, 'mean': 3000007500, 'stdev': 6454.972243679028, 'variance': 41666666.666666664, 'mode': 3000000000}
+Swap statistics: {'min': 5.0, 'max': 5.2, 'mean': 5.075, 'stdev': 0.09574271077563386, 'variance': 0.009166666666666675, 'mode': 5.0}
+Process_count statistics: {'min': 250, 'max': 251, 'mean': 250.5, 'stdev': 0.5773502691896257, 'variance': 0.3333333333333333, 'mode': 250}

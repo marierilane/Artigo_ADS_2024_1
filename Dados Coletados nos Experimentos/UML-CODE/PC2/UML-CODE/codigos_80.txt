@@ -1,0 +1,212 @@
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\Apolice.java
+Total de linhas: 11
+Linhas de código: 6
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\AvaliacaoDoCliente.java
+Total de linhas: 15
+Linhas de código: 8
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\Boleto .java
+Total de linhas: 13
+Linhas de código: 7
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\Caminhao.java
+Total de linhas: 11
+Linhas de código: 6
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\Carro.java
+Total de linhas: 11
+Linhas de código: 6
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\CartaoDeCredito .java
+Total de linhas: 11
+Linhas de código: 6
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\Class51.java
+Total de linhas: 3
+Linhas de código: 2
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\Cliente.java
+Total de linhas: 19
+Linhas de código: 10
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\Cobertura.java
+Total de linhas: 13
+Linhas de código: 7
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\Combustivel.java
+Total de linhas: 9
+Linhas de código: 5
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\Contador.java
+Total de linhas: 11
+Linhas de código: 6
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\Contrato.java
+Total de linhas: 13
+Linhas de código: 7
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\ControleDeQuilometragem.java
+Total de linhas: 9
+Linhas de código: 5
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\Deposito.java
+Total de linhas: 11
+Linhas de código: 6
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\Devolucao.java
+Total de linhas: 13
+Linhas de código: 7
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\Email.java
+Total de linhas: 9
+Linhas de código: 5
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\Estagiario.java
+Total de linhas: 13
+Linhas de código: 7
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\Fatura.java
+Total de linhas: 13
+Linhas de código: 7
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\FeedbackDoCliente.java
+Total de linhas: 13
+Linhas de código: 7
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\Filial.java
+Total de linhas: 11
+Linhas de código: 6
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\Fornecedor.java
+Total de linhas: 21
+Linhas de código: 11
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\Funcionario.java
+Total de linhas: 17
+Linhas de código: 9
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\Gerente.java
+Total de linhas: 11
+Linhas de código: 6
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\GestaoDeFrota.java
+Total de linhas: 11
+Linhas de código: 6
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\Ligacao.java
+Total de linhas: 9
+Linhas de código: 5
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\Locacao.java
+Total de linhas: 21
+Linhas de código: 11
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\Manutencao.java
+Total de linhas: 15
+Linhas de código: 8
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\Mecanico.java
+Total de linhas: 11
+Linhas de código: 6
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\Moto.java
+Total de linhas: 11
+Linhas de código: 6
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\Multa.java
+Total de linhas: 11
+Linhas de código: 6
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\Notificacao.java
+Total de linhas: 11
+Linhas de código: 6
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\Onibus.java
+Total de linhas: 11
+Linhas de código: 6
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\Pagamento.java
+Total de linhas: 19
+Linhas de código: 10
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\Peca.java
+Total de linhas: 11
+Linhas de código: 6
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\PessoaFisica.java
+Total de linhas: 9
+Linhas de código: 5
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\PessoaJuridica .java
+Total de linhas: 9
+Linhas de código: 5
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\Pix.java
+Total de linhas: 9
+Linhas de código: 5
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\RelatorioDeUso.java
+Total de linhas: 15
+Linhas de código: 8
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\RelatorioFinanceiro.java
+Total de linhas: 9
+Linhas de código: 5
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\Reserva.java
+Total de linhas: 19
+Linhas de código: 10
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\Seguro.java
+Total de linhas: 9
+Linhas de código: 5
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\Seguros.java
+Total de linhas: 13
+Linhas de código: 7
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\Sinistro.java
+Total de linhas: 11
+Linhas de código: 6
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\Sistemade Informacao.java
+Total de linhas: 19
+Linhas de código: 10
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\SistemaDePagamento.java
+Total de linhas: 9
+Linhas de código: 5
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\SistemaDeRelatorios.java
+Total de linhas: 9
+Linhas de código: 5
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\SistemaDeReserva.java
+Total de linhas: 13
+Linhas de código: 7
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\Sms.java
+Total de linhas: 9
+Linhas de código: 5
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\String.java
+Total de linhas: 3
+Linhas de código: 2
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\TransferenciaBancaria .java
+Total de linhas: 15
+Linhas de código: 8
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\Van.java
+Total de linhas: 11
+Linhas de código: 6
+
+Arquivo: C:\Users\maria\Desktop\ADS - ARTIGO\80_classes\Veiculo.java
+Total de linhas: 21
+Linhas de código: 11
+
+Total de arquivos: 52
+Total de linhas: 634
+Total de linhas de código: 343
+Soma de todas as linhas de código: 343

@@ -1,0 +1,320 @@
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Acesso.java
+Total de linhas: 15
+Linhas de código: 8
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Alto.java
+Total de linhas: 7
+Linhas de código: 4
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\AlturaCusto.java
+Total de linhas: 9
+Linhas de código: 5
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Apolice.java
+Total de linhas: 17
+Linhas de código: 9
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Atendente.java
+Total de linhas: 17
+Linhas de código: 9
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\AvaliacaoDoCliente.java
+Total de linhas: 21
+Linhas de código: 11
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Baixo.java
+Total de linhas: 7
+Linhas de código: 4
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Boleto .java
+Total de linhas: 13
+Linhas de código: 7
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Boleto.java
+Total de linhas: 28
+Linhas de código: 11
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\boolean False.java
+Total de linhas: 5
+Linhas de código: 3
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\boolean True.java
+Total de linhas: 5
+Linhas de código: 3
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Caminhao.java
+Total de linhas: 11
+Linhas de código: 6
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Carrinho.java
+Total de linhas: 20
+Linhas de código: 9
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Carro.java
+Total de linhas: 11
+Linhas de código: 6
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\CartaoDeCredito .java
+Total de linhas: 11
+Linhas de código: 6
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Categoria.java
+Total de linhas: 49
+Linhas de código: 19
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Class51.java
+Total de linhas: 3
+Linhas de código: 2
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Cliente.java
+Total de linhas: 29
+Linhas de código: 15
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Cobertura.java
+Total de linhas: 21
+Linhas de código: 11
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Combustivel.java
+Total de linhas: 13
+Linhas de código: 7
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Contador.java
+Total de linhas: 11
+Linhas de código: 6
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Contrato.java
+Total de linhas: 19
+Linhas de código: 10
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Controlador1.java
+Total de linhas: 15
+Linhas de código: 8
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Controlador2.java
+Total de linhas: 15
+Linhas de código: 8
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\ControleDeQuilometragem.java
+Total de linhas: 11
+Linhas de código: 6
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Credito.java
+Total de linhas: 24
+Linhas de código: 12
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\date.java
+Total de linhas: 5
+Linhas de código: 3
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Debito.java
+Total de linhas: 26
+Linhas de código: 10
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Deposito.java
+Total de linhas: 17
+Linhas de código: 9
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Devolucao.java
+Total de linhas: 23
+Linhas de código: 12
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\email.java
+Total de linhas: 5
+Linhas de código: 3
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Endereco.java
+Total de linhas: 44
+Linhas de código: 18
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Estagiario.java
+Total de linhas: 13
+Linhas de código: 7
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Fatura.java
+Total de linhas: 17
+Linhas de código: 9
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\FeedbackDoCliente.java
+Total de linhas: 17
+Linhas de código: 9
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Filial.java
+Total de linhas: 17
+Linhas de código: 9
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Fornecedor.java
+Total de linhas: 27
+Linhas de código: 14
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Funcionario.java
+Total de linhas: 23
+Linhas de código: 12
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Gerenciamento.java
+Total de linhas: 19
+Linhas de código: 12
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Gerente.java
+Total de linhas: 11
+Linhas de código: 6
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\GestaoDeFrota.java
+Total de linhas: 19
+Linhas de código: 10
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Ligacao.java
+Total de linhas: 9
+Linhas de código: 5
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Locacao.java
+Total de linhas: 35
+Linhas de código: 18
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Login.java
+Total de linhas: 36
+Linhas de código: 14
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Manutencao.java
+Total de linhas: 21
+Linhas de código: 11
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Mecanico.java
+Total de linhas: 11
+Linhas de código: 6
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Medio.java
+Total de linhas: 7
+Linhas de código: 4
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Moto.java
+Total de linhas: 11
+Linhas de código: 6
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Multa.java
+Total de linhas: 13
+Linhas de código: 7
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\NFe.java
+Total de linhas: 42
+Linhas de código: 17
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Notificacao.java
+Total de linhas: 17
+Linhas de código: 9
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Onibus.java
+Total de linhas: 11
+Linhas de código: 6
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Pagamento.java
+Total de linhas: 44
+Linhas de código: 15
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Peca.java
+Total de linhas: 17
+Linhas de código: 9
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Pedido.java
+Total de linhas: 33
+Linhas de código: 15
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\PessoaFisica.java
+Total de linhas: 9
+Linhas de código: 5
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\PessoaJuridica .java
+Total de linhas: 9
+Linhas de código: 5
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Pix.java
+Total de linhas: 37
+Linhas de código: 14
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Produto.java
+Total de linhas: 54
+Linhas de código: 20
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Rastreio.java
+Total de linhas: 22
+Linhas de código: 10
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\RelatorioDeUso.java
+Total de linhas: 19
+Linhas de código: 10
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\RelatorioFinanceiro.java
+Total de linhas: 11
+Linhas de código: 6
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Reserva.java
+Total de linhas: 35
+Linhas de código: 18
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Seguro.java
+Total de linhas: 11
+Linhas de código: 6
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Seguros.java
+Total de linhas: 19
+Linhas de código: 10
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Sinistro.java
+Total de linhas: 13
+Linhas de código: 7
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Sistemade Informacao.java
+Total de linhas: 29
+Linhas de código: 15
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\SistemaDePagamento.java
+Total de linhas: 11
+Linhas de código: 6
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\SistemaDeRelatorios.java
+Total de linhas: 11
+Linhas de código: 6
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\SistemaDeReserva.java
+Total de linhas: 15
+Linhas de código: 8
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Sms.java
+Total de linhas: 9
+Linhas de código: 5
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\String.java
+Total de linhas: 3
+Linhas de código: 2
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Tela Sistema.java
+Total de linhas: 9
+Linhas de código: 5
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\TransferenciaBancaria .java
+Total de linhas: 15
+Linhas de código: 8
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Usuario.java
+Total de linhas: 33
+Linhas de código: 14
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Van.java
+Total de linhas: 11
+Linhas de código: 6
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\Veiculo.java
+Total de linhas: 31
+Linhas de código: 16
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\À prazo.java
+Total de linhas: 22
+Linhas de código: 12
+
+Arquivo: C:\Users\Victor Pinheiro\Downloads\es\codigos\À vista.java
+Total de linhas: 23
+Linhas de código: 11
+
+Total de arquivos: 79
+Total de linhas: 1458
+Total de linhas de código: 715
+Soma de todas as linhas de código: 715
